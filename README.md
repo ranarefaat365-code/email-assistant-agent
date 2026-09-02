@@ -47,9 +47,7 @@ Run the agent and provide credentials when prompted. Once authenticated, ask it 
 - Implementing human-in-the-loop approval, editing, and rejection flows
 - Managing custom agent state across a conversation
 
-## Acknowledgments
-
-Built following the LangChain Academy "Introduction to LangChain" course. Adapted to use Google's Gemini model in place of the original OpenAI model.
+ذذ
 
 ## Author
 
