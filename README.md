@@ -47,8 +47,6 @@ Run the agent and provide credentials when prompted. Once authenticated, ask it 
 - Implementing human-in-the-loop approval, editing, and rejection flows
 - Managing custom agent state across a conversation
 
-ذذ
-
 ## Author
 
 **Rana Refaat**
